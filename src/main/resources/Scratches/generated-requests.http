@@ -1,0 +1,69 @@
+###
+GET http://localhost:8080/keyword?keyword=판교마카롱
+
+###
+GET http://localhost:8080/keyword?keyword=판교꽃집
+
+###
+GET http://localhost:8080/keyword?keyword=판교마카롱
+
+###
+GET http://localhost:8080/keyword?keyword=판교라면
+
+###
+GET http://localhost:8080/keyword?keyword=판교마카롱
+
+###
+GET http://localhost:8080/keyword?keyword=판교마카롱
+
+###
+GET http://localhost:8080/keyword?keyword=판교마카롱
+
+###
+GET http://localhost:8080/keyword?keyword=판교라면
+
+###
+GET http://localhost:8080/keyword?keyword=비빔밥
+
+###
+GET http://localhost:8080/keyword?keyword=판교꽃집
+
+###
+GET http://localhost:8080/keyword?keyword=한정식
+
+###
+GET http://localhost:8080/keyword?keyword=카카오뱅크
+
+###
+GET http://localhost:8080/keyword?keyword=카카오뱅크
+
+###
+GET http://localhost:8080/keyword?keyword=한정식
+
+###
+GET http://localhost:8080/keyword?keyword=판교 교보문고
+
+###
+GET http://localhost:8080/keyword?keyword=판교 교보문고
+
+###
+GET http://localhost:8080/keyword?keyword=판교 현대백화점
+
+###
+GET http://localhost:8080/keyword?keyword=판교 현대백화점
+
+###
+GET http://localhost:8080/keyword?keyword=판교 현대백화점
+
+###
+GET http://localhost:8080/keyword?keyword=안경
+
+###
+GET http://localhost:8080/keyword?keyword=서울자전거
+
+###
+GET http://localhost:8080/keyword?keyword=한강 편의점
+
+###
+GET http://localhost:8080/searchKeywordList
+
