@@ -11,6 +11,7 @@
   
 **3. 테스트 방법**
   - HTTP Request file 실행 또는 url 호출
+    - HTTP Request file path : com-search/src/main/resources/Scratches/generated-requests.http
   
   - 장소 검색 호출 ex) http://localhost:8080/keyword?keyword=판교마카롱
   ```
